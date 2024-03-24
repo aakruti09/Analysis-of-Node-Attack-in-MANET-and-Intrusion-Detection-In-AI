@@ -1,4 +1,4 @@
-# Analysis of Node Attack in MANET and Intrusion Detection Using AI
+# MANET Node Attack Analysis and Intrusion Detection using AI
 
 ## Overview
 This project focuses on analyzing various node attacks in **Mobile Ad-hoc Networks (MANET)** and proposes an **Intrusion Detection System (IDS)** using **Artificial Intelligence (AI)** techniques. MANET is known for its decentralized and self-configuring nature, making it vulnerable to active attacks such as **black-hole attacks**, **hello flooding attacks**, and **denial of service (DoS) attacks**. The project aims to model these attacks and evaluate their impact on MANET performance metrics. Additionally, an AI-based IDS is developed to detect malicious nodes in real-time.
@@ -38,7 +38,7 @@ The csv file for dataset is available in data/ folder.
 - [Ad hoc mobile wireless networks routing protocols–a review](https://thescipub.com/pdf/jcssp.2007.574.582.pdf) - G. Jayakumar and G. Gopinath
 - [Intrusion detection in wireless ad-hoc networks](https://www.researchgate.net/publication/2891081_Intrusion_Detection_Techniques_for_Mobile_Wireless_Networks) - Y. Zhang and W. Lee
 - [Manet security: A survey](https://www.researchgate.net/publication/281676327_MANET_security_A_survey) - M. M. Alani
-- [An overview of aodv routing protocol](http://www.ijmer.com/papers/vol2_issue3/AC23728732.pdf) - P. K. Maurya, G. Sharma, V. Sahu, A. Roberts, M. Srivastava, M. Scholar et al.
+- [An overview of aodv routing protocol](http://www.ijmer.com/papers/vol2_issue3/AC23728732.pdf) - P. K. Maurya, G. Sharma, V. Sahu, A. Roberts, M. Srivastava.
 - [Ad-hoc on-demand distance vector routing](https://ieeexplore.ieee.org/document/749281) - C. E. Perkins and E. M. Royer
 - [Node mobility documentation for OMNET++](https://inet.omnetpp.org/docs/users-guide/ch-mobility.html) - OMNET++ documentation
 - [A survey of mobility models for ad hoc network research](https://www.researchgate.net/publication/2563707_A_Survey_of_Mobility_Models_for_Ad_Hoc_Network_Research) - T. Camp, J. Boleng, and V. Davies

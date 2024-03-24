@@ -1,12 +1,12 @@
 #
-# OMNeT++/OMNEST Makefile for Project
+# OMNeT++/OMNEST Makefile for dos_attack
 #
 # This file was generated with the command:
 #  opp_makemake -f --deep -O out -KINET_PROJ=../inet -DINET_IMPORT -I. -I$$\(INET_PROJ\)/src -L$$\(INET_PROJ\)/src -lINET$$\(D\)
 #
 
 # Name of target to be created (-o option)
-TARGET = Project$(D)$(EXE_SUFFIX)
+TARGET = dos_attack$(D)$(EXE_SUFFIX)
 TARGET_DIR = .
 
 # User interface (uncomment one) (-u option)
@@ -30,7 +30,7 @@ PROJECTRELATIVE_PATH =
 O = $(PROJECT_OUTPUT_DIR)/$(CONFIGNAME)/$(PROJECTRELATIVE_PATH)
 
 # Object files for local .cc, .msg and .sm files
-OBJS = $O/src.o
+OBJS =
 
 # Message files
 MSGFILES =
